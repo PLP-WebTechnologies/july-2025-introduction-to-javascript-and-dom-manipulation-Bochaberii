@@ -1,0 +1,14 @@
+body {
+  background-color: #f0f8ff;
+  font-family: Arial, sans-serif;
+  margin: 40px;
+}
+
+#demo {
+  color: #333;
+  font-size: 1.5em;
+  padding: 10px 20px;
+  background: #e0e7ff;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+}

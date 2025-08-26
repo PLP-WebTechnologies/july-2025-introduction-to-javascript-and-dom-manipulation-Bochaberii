@@ -4,10 +4,10 @@ Welcome to your next step toward JavaScript mastery! In this assignment, you'll 
 
 ---
 
-## 🎯 Part 1: Mastering JavaScript Basics
+## 🎯 withPart 1: Mastering JavaScript Basics
 
-Start with the building blocks of JavaScript—variables, data types, operators, and conditionals. You’ll write a few simple programs that capture user input, make decisions using `if/else`, and output results using `console.log()` or by modifying the webpage content.
-
+Start  the building blocks of JavaScript—variables, data types, operators, and conditionals. You’ll write a few simple programs that capture user input, make decisions using `if/else`, and output results using `console.log()` or by modifying the webpage content.
+                                                                            
 **Goal:** Demonstrate your understanding of how JavaScript flows, processes logic, and interacts with data.
 
 ---
